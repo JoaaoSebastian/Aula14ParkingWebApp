@@ -1,0 +1,8 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<h1>Parking WebApp</h1>
+<div>
+    <a href="stays.jsp">Estadias</a>
+    <a href="history.jsp">Historico</a>
+</div>
+<hr/>
